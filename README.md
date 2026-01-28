@@ -8,3 +8,7 @@ https://medium.com/@tsecretdeveloper/the-death-of-software-engineering-again-9f8
 
 ### Reflection:
 I found this article quite insightful as it details the recurring trend in tech media of declaring “the death of software engineering” whenever new tools, frameworks, or AI models emerge. It highlights how these dramatic proclamations make developers panic, but is mundane in reality. Although it does have an impact on the industry, humans are still essential for context, judgment, and problem-solving. I liked how the article emphasizes how software engineering evolves rather than ends, and the real “death” is the endless cycle of sensational predictions about its demise.
+
+---
+### Diya Greben Comment:
+I agree with much of what this article states. Like everything in the world, software engineering must adapt to keep up with new technology and trends. Although a software engineer's work in the future might not look exactly like it does now, software engineers are not going to simply disappear. 
